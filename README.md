@@ -1,0 +1,2 @@
+# managedbean
+POC used managedbean
